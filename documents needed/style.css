@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+}
+
+h1{
+ text-transform: capitalize;
+ font-size: 3rem;
+
+}
+p{
+    font-size: larger;
+}
+.Poster{
+    color: white;
+    font-family: 'Charmonman', cursive;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    
+}
+.IgotThis{
+    border: 5px solid white;
+    width: 100%;
+}
